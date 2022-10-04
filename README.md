@@ -1,6 +1,6 @@
 # AI-Fakerbot??
 
-A  python telegram bot with the integration of **_https://thispersondoesnotexist.com/_** and python Faker library
+A pyrogram telegram bot with the integration of **_https://thispersondoesnotexist.com/_** and python Faker library
 
 ## ThisPersonDoesn'tExist
 
@@ -58,6 +58,11 @@ pip install -r requirements.txt
 ```sh
 python3 main.py
 ```
+
+## Issues 
+
+[Submit Issues](https://github.com/riz4d/AI-Fakerbot/issues)
+
 
 ## Developer
 
